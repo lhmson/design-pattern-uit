@@ -1,0 +1,13 @@
+D:\Programming\AdapterDemo\AdapterDemo\bin\Debug\netcoreapp3.1\AdapterDemo.exe
+D:\Programming\AdapterDemo\AdapterDemo\bin\Debug\netcoreapp3.1\AdapterDemo.deps.json
+D:\Programming\AdapterDemo\AdapterDemo\bin\Debug\netcoreapp3.1\AdapterDemo.runtimeconfig.json
+D:\Programming\AdapterDemo\AdapterDemo\bin\Debug\netcoreapp3.1\AdapterDemo.runtimeconfig.dev.json
+D:\Programming\AdapterDemo\AdapterDemo\bin\Debug\netcoreapp3.1\AdapterDemo.dll
+D:\Programming\AdapterDemo\AdapterDemo\bin\Debug\netcoreapp3.1\AdapterDemo.pdb
+D:\Programming\AdapterDemo\AdapterDemo\obj\Debug\netcoreapp3.1\AdapterDemo.csprojAssemblyReference.cache
+D:\Programming\AdapterDemo\AdapterDemo\obj\Debug\netcoreapp3.1\AdapterDemo.AssemblyInfoInputs.cache
+D:\Programming\AdapterDemo\AdapterDemo\obj\Debug\netcoreapp3.1\AdapterDemo.AssemblyInfo.cs
+D:\Programming\AdapterDemo\AdapterDemo\obj\Debug\netcoreapp3.1\AdapterDemo.csproj.CoreCompileInputs.cache
+D:\Programming\AdapterDemo\AdapterDemo\obj\Debug\netcoreapp3.1\AdapterDemo.dll
+D:\Programming\AdapterDemo\AdapterDemo\obj\Debug\netcoreapp3.1\AdapterDemo.pdb
+D:\Programming\AdapterDemo\AdapterDemo\obj\Debug\netcoreapp3.1\AdapterDemo.genruntimeconfig.cache
