@@ -1,0 +1,13 @@
+C:\Users\DELL\Downloads\PrototypeDesignPattern\PrototypeDesignPattern\bin\Debug\netcoreapp3.1\PrototypeDesignPattern.exe
+C:\Users\DELL\Downloads\PrototypeDesignPattern\PrototypeDesignPattern\bin\Debug\netcoreapp3.1\PrototypeDesignPattern.deps.json
+C:\Users\DELL\Downloads\PrototypeDesignPattern\PrototypeDesignPattern\bin\Debug\netcoreapp3.1\PrototypeDesignPattern.runtimeconfig.json
+C:\Users\DELL\Downloads\PrototypeDesignPattern\PrototypeDesignPattern\bin\Debug\netcoreapp3.1\PrototypeDesignPattern.runtimeconfig.dev.json
+C:\Users\DELL\Downloads\PrototypeDesignPattern\PrototypeDesignPattern\bin\Debug\netcoreapp3.1\PrototypeDesignPattern.dll
+C:\Users\DELL\Downloads\PrototypeDesignPattern\PrototypeDesignPattern\bin\Debug\netcoreapp3.1\PrototypeDesignPattern.pdb
+C:\Users\DELL\Downloads\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\netcoreapp3.1\PrototypeDesignPattern.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\netcoreapp3.1\PrototypeDesignPattern.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\netcoreapp3.1\PrototypeDesignPattern.AssemblyInfo.cs
+C:\Users\DELL\Downloads\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\netcoreapp3.1\PrototypeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\netcoreapp3.1\PrototypeDesignPattern.dll
+C:\Users\DELL\Downloads\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\netcoreapp3.1\PrototypeDesignPattern.pdb
+C:\Users\DELL\Downloads\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\netcoreapp3.1\PrototypeDesignPattern.genruntimeconfig.cache
