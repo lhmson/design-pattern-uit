@@ -7,19 +7,19 @@ namespace Command
         static void Main(string[] args)
         {
             var calculator = new Calculator();
-            int resulit;
+            int res;
 
-            resulit = calculator.Add(5);
-            Console.WriteLine("resulit is "+ resulit);
+            res = calculator.Add(5);
+            Console.WriteLine("result is "+ res);
 
-            resulit = calculator.Sub(2);
-            Console.WriteLine("resulit is " + resulit);
+            res = calculator.Sub(2);
+            Console.WriteLine("result is " + res);
 
-            resulit = calculator.Div(2);
-            Console.WriteLine("resulit is " + resulit);
+            res = calculator.Div(2);
+            Console.WriteLine("result is " + res);
 
-            resulit = calculator.Mul(12);
-            Console.WriteLine("resulit is " + resulit);
+            res = calculator.Mul(12);
+            Console.WriteLine("result is " + res);
 
             Console.ReadLine();
         }

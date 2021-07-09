@@ -1,7 +1,0 @@
-D:\UIT\HK6\Design Pattern\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe.config
-D:\UIT\HK6\Design Pattern\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe
-D:\UIT\HK6\Design Pattern\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.pdb
-D:\UIT\HK6\Design Pattern\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.csprojAssemblyReference.cache
-D:\UIT\HK6\Design Pattern\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
-D:\UIT\HK6\Design Pattern\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.exe
-D:\UIT\HK6\Design Pattern\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.pdb
